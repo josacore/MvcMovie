@@ -55,3 +55,4 @@ c:\users\josimarsantiago\documents\visual studio 2013\Projects\MvcMovie\MvcMovie
 c:\users\josimarsantiago\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\obj\Debug\MvcMovie.pdb
 C:\Users\JosimarSantiago\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\obj\Debug\MvcMovie.Migrations.EnumRating.resources
 C:\Users\JosimarSantiago\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\obj\Debug\MvcMovie.csproj.GenerateResource.Cache
+C:\Users\JosimarSantiago\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\obj\Debug\MvcMovie.Migrations.DataAnotattion.resources
